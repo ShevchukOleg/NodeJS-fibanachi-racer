@@ -38,6 +38,11 @@ function calcFibIndexValueSum(fibIndex) {
 
 console.log(calcFibIndexValueSum(47));
 
-//!! i7 -12700H Windows 11 (4807526976)
+//!! i7-12700H Windows 11 (4807526976)
 // Time spent: 31334.149 iterations count: 4807526975
 // calcFibIndexValueSum time spend: 0.005000000001018634
+
+// !! i5-3230M Ubuntu 20.04 (4807526976)
+// Time spent: 84264.135 iterations count: 4807526975
+// calcFibIndexValueSum time spend: 0.010999999998603016
+// 4807526976
